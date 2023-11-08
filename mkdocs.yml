@@ -1,0 +1,76 @@
+site_name: kai/uvest      
+theme:                  ##under theme goes everything design related
+  name: material
+  # custom_dir: overrides # to enable override folder with custom html code
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  language: en
+  logo: assets/images/example_logo.png
+  font: 
+    text: Montserrat
+    code: Roboto Mono
+  features:
+    - navigation.instant # replaces loading internal pages with XHR requests (no full loading)
+    # - navigation.instant.prefetch
+    - navigation.instant.progress # show progress bar during loading
+    - navigation.tracking # enable anchor tracking in the URL
+    - navigation.path # enable breadcrumbs
+    - navigation.tabs
+    - toc.integrate
+
+extra: # landing page for the icon/ logo. Would normally locateto site_url
+  homepage: https://uvest.github.io
+
+docs_dir: docs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Research: research.md
+  - Contact: contact.md
+  - Blog: blog.md
+
+exclude_docs: | # ignore files like in .gitignore. not during serving it seems
+  *~$landing.pptx
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list # for including buttons
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - codehilite
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
