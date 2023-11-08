@@ -4,31 +4,9 @@ hide:
   - navigation
 ---
 
-<div class="grid" markdown>
-=== "Unordered list"
+![Welcome](assets/images/landing_dark.png){align=left width=100%}
 
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
 
-=== "Ordered list"
 
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
-
-``` title="Content tabs"
-=== "Unordered list"
-
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
-
-=== "Ordered list"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
-```
-</div>
+  <!-- ![Profile](assets/images/kai_streiling_profile_2_brighter.jpg){align=right width=25%} -->
 
