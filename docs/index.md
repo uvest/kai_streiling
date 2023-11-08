@@ -2,30 +2,33 @@
 # template: home.html
 hide:
   - navigation
-  - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid" markdown>
+=== "Unordered list"
 
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+    * Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
 
+=== "Ordered list"
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
+
+``` title="Content tabs"
+=== "Unordered list"
+
+    * Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
+```
 </div>
-
-  <!-- ![Welcome](assets/images/landing_dark.png){align=left width=600}
-
-
-
-  Hi ...
-  Hi ...
-  Hi ...
-  Hi ...
-  Hi ...
-  Hi ...
-
-  ---
-
-  ![Profile](assets/images/kai_streiling_profile_2_brighter.jpg){align=right width=25%} -->
 
