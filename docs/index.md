@@ -2,11 +2,37 @@
 # template: home.html
 hide:
   - navigation
+  - title
+title: Home
+# icon: ...
 ---
 
-![Welcome](assets/images/landing_dark.png){align=left width=100%}
+# Kai Streiling
+
+![Welcome](assets/images/landing_dark.png){align=right width=900}
+![Profile](assets/images/profile_sq_sw.jpg){width=300 id=round}
+
+[:fontawesome-brands-github:](https://github.com/uvest/){.md-button .md-button--primary } 
+[:octicons-mail-16:](mailto:kai.streiling@tu-darmstadt.de){.md-button .md-button--primary }
+[:simple-researchgate:](link){.md-button .md-button--primary }
 
 
 
-  <!-- ![Profile](assets/images/kai_streiling_profile_2_brighter.jpg){align=right width=25%} -->
 
+<br>
+<br>
+<br>
+<br>
+:material-arrow-down:{align=center}
+---
+
+
+
+<style>
+  /* img {
+    border-radius: 50%;
+  } */
+  #round {
+    border-radius: 50%;
+  }
+</style>

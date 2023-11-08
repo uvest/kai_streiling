@@ -1,4 +1,4 @@
-site_name: kai/uvest      
+site_name: kai/uvest
 theme:                  ##under theme goes everything design related
   name: material
   # custom_dir: overrides # to enable override folder with custom html code
@@ -6,7 +6,7 @@ theme:                  ##under theme goes everything design related
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: custom
       accent: deep orange
       toggle:
         icon: material/weather-night
@@ -15,8 +15,8 @@ theme:                  ##under theme goes everything design related
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange
-      accent: indigo
+      primary: custom
+      accent: deep orange
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -43,10 +43,15 @@ nav:
   - About: about.md
   - Research: research.md
   - Contact: contact.md
-  - Blog: blog.md
+  - Blog: 
+    - Topic 1: blog/Topic1.md
+    - Topic 2: blog/Topic2.md
+    - Topic 3: blog/Topic3.md
 
 exclude_docs: | # ignore files like in .gitignore. not during serving it seems
   *~$landing.pptx
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
