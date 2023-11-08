@@ -42,9 +42,8 @@ nav:
   - Home: index.md
   - About: about.md
   - Research: research.md
-  - Contact: contact.md
   - Blog: 
-    - Topic 1: blog/Topic1.md
+    - Causality SSD and Choice-History: blog/Causality_SSD_and_Choice-History.md
     - Topic 2: blog/Topic2.md
     - Topic 3: blog/Topic3.md
 
