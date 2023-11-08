@@ -34,8 +34,8 @@ theme:                  ##under theme goes everything design related
     - navigation.tabs
     - toc.integrate
 
-extra: # landing page for the icon/ logo. Would normally locateto site_url
-  homepage: https://uvest.github.io
+# extra: # landing page for the icon/ logo. Would normally locateto site_url
+#   homepage: https://uvest.github.io
 
 docs_dir: docs
 nav:
