@@ -6,6 +6,8 @@ bibliography: references.bib
 ---
 # Research Interests
 
+My research rotates about the [Sense of Agency](), an initally vague psychological concept, and [Mutlisensory Integration]() for movement control, especially in conflicting cases, such as in visuomotor illusions.
+
 ## Agency
 
 * [Choice history effects on causality perception in Schizophrenia](./blog/Causality_SSD_and_Choice-History.md)

@@ -1,4 +1,4 @@
-site_name: kai/uvest
+site_name: K \\ Lab
 theme:                  ##under theme goes everything design related
   name: material
   # custom_dir: overrides # to enable override folder with custom html code
@@ -21,7 +21,8 @@ theme:                  ##under theme goes everything design related
         icon: material/weather-sunny
         name: Switch to light mode
   language: en
-  logo: assets/images/example_logo.png
+  logo: assets/images/logo.png
+  favicon: assets/images/fav_icon.png
   font: 
     text: Montserrat
     code: Roboto Mono
