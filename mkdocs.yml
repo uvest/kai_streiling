@@ -1,4 +1,4 @@
-site_name: K \\ Lab
+site_name: K2 \\ Lab
 theme:                  ##under theme goes everything design related
   name: material
   # custom_dir: overrides # to enable override folder with custom html code
@@ -48,34 +48,36 @@ nav:
     - Topic 2: blog/Topic2.md
     - Topic 3: blog/Topic3.md
 
-exclude_docs: | # ignore files like in .gitignore. not during serving it seems
-  *~$landing.pptx
+# exclude_docs: | # ignore files like in .gitignore. not during serving it seems
+#   *~$landing.pptx
 extra_css:
   - stylesheets/extra.css
 
-markdown_extensions:
-  - admonition
-  - abbr
+markdown_extensions: # (1)!
   - attr_list # for including buttons
-  - def_list
-  - footnotes
-  - meta
-  - md_in_html
-  - codehilite
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.tabbed
-  - pymdownx.details
-  - pymdownx.inlinehilite
-  - pymdownx.smartsymbols
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
+  - md_in_html # for writing markdown code in html divs
+
+  # - footnotes
+  # - abbr
+  # - admonition
+  # - def_list
+  # - meta
+  # - codehilite
+
+  # - pymdownx.critic
+  # - pymdownx.caret
+  # - pymdownx.keys
+  # - pymdownx.mark
+  # - pymdownx.tilde
+  # - pymdownx.tabbed
+  # - pymdownx.details
+  # - pymdownx.inlinehilite
+  # - pymdownx.smartsymbols
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
+  # - pymdownx.superfences
+  # - pymdownx.tabbed:
+  #     alternate_style: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
