@@ -45,7 +45,7 @@ nav:
   - Research: research.md
   - Blog: 
     - Causality SSD and Choice-History: blog/Causality_SSD_and_Choice-History.md
-    - Topic 2: blog/Topic2.md
+    - Multisensory_integration_for_balance: blog/Multisensory_integration_for_balance.md
     - Topic 3: blog/Topic3.md
 
 # exclude_docs: | # ignore files like in .gitignore. not during serving it seems

@@ -16,7 +16,7 @@ My research rotates about the [Sense of Agency](), an initally vague psychologic
 
 ## Multisensory Control
 
-* Multisensory (dis-)integration for human balance control
+* [Multisensory (dis-)integration for human balance control](./blog/Multisensory_integration_for_balance.md.md)
 * Using multiple senses for control: Comparing OC, model-free RL and model-based RL
 
 ## Other Publications
