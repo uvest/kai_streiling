@@ -1,3 +1,7 @@
+---
+title: Agency
+---
+
 # A behavioural measure of Agency
 
-Work in Progress...
+Screenshots, and summaries coming soon...

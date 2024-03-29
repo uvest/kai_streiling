@@ -8,10 +8,11 @@ title: Causality
 
 ## Introduction and Experiment
 
-My friends and I have somewhat built up a tradition over the last years. Before christmas, we all dress up in the fanciest suit we can find in our cupboards, attach a vintage bow tie, have a *Glühwein* on the christmas market and head for the the casino. Some of us winning, most of us loosing, but all feeling fancy. <br>
+My friends and I have somewhat built up a tradition over the last years. Before christmas, we all dress up in the fanciest suits we can find in our cupboards, attach a vintage bow tie, have a *Glühwein* on the christmas market and head for the the casino. Some of us winning, most of us loosing, but all feeling fancy. <br>
 Anyway, what caught my eye was the betting behaviour at the Roulette tables. Many bet on either black or red (both having on average a 48.6 % chance). Sometimes, a table spat out the same colour again and again, all black for the last 10, 15, 20 draws. Such is chance. Funnily however, if such sequences occur, more and more people are drawn to the opposite color. They are clearly influenced by the past outcomes of the gamble although there is no information in it - unless some trick is at work. Such is human nature.
 
-Now, in our project in the course of [TAM](https://www.theadaptivemind.de/) we did not go gambling. In fact, it has nothing to do with gambling, but with perceptual decision making or rather with the perception of causality. So, why telling you about my - seldomly successful - adventures at a casino?
+Now, in our project in the course of [TAM](https://www.theadaptivemind.de/) we did not go gambling. That is nothing you should do with tax money is it?
+Instead we looked at perceptual decision making or rather at the perception of causality. So, why telling you about my - seldomly successful - adventures at the casino?
 
 For this project, I revisited an experiment conducted by [Benjamin Straube](https://tnm-lab.com/people/prof-dr-benjamin-straube/) and colleagues from the [TNM-Lab](https://tnm-lab.com/) at the Philipps-University Marburg. They showed their participants a launching event of a blue ball "colliding" with a red ball and asked them whether they perceived the event as *causal* (the blue ball did cause the red ball to move) or *non-causal*.
 
@@ -29,17 +30,11 @@ We were now wondering, if there also were other factors that are used differentl
 ## Method/ Analysis
 tldr: I used a fancy linear regression (GLMM) for looking at the influence of the last launching event and the choice that was made on the current choice.
 
-For more information, soon, the paper will be out (hopefully).
+For more information, ther'll soon be a paper published (hopefully that is).
 
 ## Results
-Now, the more interesting part.
+tldr: The last choice indeed influences our perception of causality, both, in an easy to grasp direct way and by modulating the influence of other factors.
 
-Yes, the last perception of causality has indeed an influence on the current perception. 
-
-
-
-
-
-
+I'll update this part here when the paper is finally out ^^
 
 ... to be continued.
