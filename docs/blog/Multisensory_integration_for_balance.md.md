@@ -1,3 +1,7 @@
+---
+title: Multisensory
+---
+
 # Multisensory integration for control
 
 We humans can rely on mutliple senses when moving and acting in our environment. We can even focus on one sense, blend out others, trust or distrust them, or rely on just a subset of them. This skill becomes especially important when our senses don't match up anymore.
