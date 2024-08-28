@@ -22,7 +22,7 @@ Feel free to [write me an e-mail](mailto:kai.streiling@tu-darmstadt.de), if you 
 I am always open to talk about collaborations, projects, movies or technical fancicalities.
 
 [:octicons-mail-16:](mailto:kai.streiling@tu-darmstadt.de){.md-button .md-button--primary }
-[:fontawesome-brands-github:](https://github.com/uvest/){align=left .md-button .md-button--primary target=_blank} 
+[:fontawesome-brands-github:](https://github.com/uvest/){align=left .md-button .md-button--primary target=_blank}
 [:simple-researchgate:](https://www.researchgate.net/profile/Kai-Streiling){.md-button .md-button--primary target=_blank}
 
 <br>
