@@ -29,6 +29,13 @@ I am always open to talk about collaborations, projects, movies or technical fan
 
 ---
 
+
+![Welcome](assets/images/landing_dark.png){align=center width=100%}
+
+<!-- :material-arrow-down:{align=center} -->
+
+---
+
 <style>
   /* img {
     border-radius: 50%;
@@ -37,9 +44,3 @@ I am always open to talk about collaborations, projects, movies or technical fan
     border-radius: 50%;
   }
 </style>
-
----
-
-![Welcome](assets/images/landing_dark.png){align=center width=100%}
-
-<!-- :material-arrow-down:{align=center} -->
