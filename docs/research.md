@@ -26,11 +26,11 @@ My research rotates around the [Sense of Agency](#agency) and [Mutlisensory Inte
 # Publications
 
 ### Pre-prints
-* Streiling, K., Schülke, R., van Dam, L.C.J & Straube, B. (2024). Choice-and trial-history effects on causality perception in Schizophrenia Spectrum Disorder. https://osf.io/preprints/psyarxiv/8ghab
+* Streiling, K., Schülke, R., van Dam, L.C.J & Straube, B. (2024). Choice-and trial-history effects on causality perception in Schizophrenia Spectrum Disorder. [https://osf.io/preprints/psyarxiv/8ghab](https://osf.io/preprints/psyarxiv/8ghab)
 
 
 ### Paper
-* Stasica, M., Honekamp, C., Streiling, K., Penacchio, O., van Dam, L., Seyfarth, A. (2024). Walking on virtual surface patterns leads to changed control strategies. Sensors 2024, 24(16), 5242; https://doi.org/10.3390/s24165242
+* Stasica, M., Honekamp, C., Streiling, K., Penacchio, O., van Dam, L., Seyfarth, A. (2024). Walking on virtual surface patterns leads to changed control strategies. Sensors 2024, 24(16), 5242; [https://doi.org/10.3390/s24165242](https://doi.org/10.3390/s24165242)
 
 
 ### Conference Contributions
