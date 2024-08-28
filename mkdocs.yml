@@ -46,8 +46,8 @@ nav:
   - Teaching: teaching.md
   - Blog: 
     - Causality SSD and Choice-History: blog/Causality_SSD_and_Choice-History.md
-    - Multisensory_integration_for_balance: blog/Multisensory_integration_for_balance.md
-    - Agency: blog/Agency.md
+    - Agency and the Mario-Cart effect: blog/Agency.md
+    - Multisensory balance: blog/Multisensory_balance.md
 
 # exclude_docs: | # ignore files like in .gitignore. not during serving it seems
 #   *~$landing.pptx

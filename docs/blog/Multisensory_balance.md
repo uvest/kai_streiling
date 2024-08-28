@@ -1,6 +1,5 @@
 ---
-title: "Multisensory balance"
-date: 2024-8-28
+title: Multisensory balance
 ---
 
 # Multisensory integration for control
