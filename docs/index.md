@@ -9,12 +9,6 @@ title: Home
 
 # Kai Streiling
 
-![Welcome](assets/images/landing_dark.png){align=center width=100%}
-
-<!-- :material-arrow-down:{align=center} -->
-
----
-
 ![Profile](assets/images/profile_sq_sw.jpg){align=left width=300 id=round}
 
 Hi there, <br>
@@ -43,3 +37,9 @@ I am always open to talk about collaborations, projects, movies or technical fan
     border-radius: 50%;
   }
 </style>
+
+---
+
+![Welcome](assets/images/landing_dark.png){align=center width=100%}
+
+<!-- :material-arrow-down:{align=center} -->
