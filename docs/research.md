@@ -6,18 +6,19 @@ bibliography: references.bib
 ---
 # Research Interests
 
-My research rotates around the [Sense of Agency](#agency) and [Mutlisensory Integration](#multisensory-control) for movement control, especially in conflicting cases such as in visuomotor illusions. I study these cases both in machines and humans. 
+My research rotates around the [Sense of Agency](#agency) in humans and machines. <br>
+I've also dipped my toes a bit into [Mutlisensory Integration](#multisensory-control) for movement control, particularly when these senses provide conflicting information, e.g. in visuomotor illusions.
 
 ## Agency
 
-* [Choice history effects on causality perception in Schizophrenia](./blog/Causality_SSD_and_Choice-History.md)
-* The Mario-Cart Effect
-* Optimal Control model of Agency and confusion
-* Agency in Deep-Reinforcement Learning for multi-agent tasks
+* [The sticky perception of causality and Schizophrenia](./blog/Causality_SSD_and_Choice-History.md)
+* [The Mario-Cart Effect: It's a me!? - or is it?](./blog/Agency.md)
+<!-- * Optimal Control model of Agency and confusion
+* Agency in Deep-Reinforcement Learning for multi-agent tasks -->
 
 ## Multisensory Control
 
-* [Multisensory balance control for humans, optimal controllers and Deep-RL agents](./blog/Multisensory_integration_for_balance.md.md)
+* [Multisensory balance control for humans, optimal controllers and Deep-RL agents](./blog/Multisensory_balance.md)
 
 
 ---
