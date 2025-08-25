@@ -27,7 +27,7 @@ There are many funny things researchers do for a living. Here, we were looking a
 Yep, mostly their task was to stand still. <br>
 Ok, sometimes we told them to only stand still on one leg. Or we told them to walk a couple of meters. Maybe we we also let them do that in VR (virtual reality). And yeah, we might have played around with their senses and showed them weird visual stuff or vibrated parts of their body in response to their standing while they had to do just that: stand still.
 
-So, together with my colleagues [Celine](https://www.psychologie.tu-darmstadt.de/institut_psy/personen_psy/personen_psy_detail_75712.de.jsp) and [Max](https://www.sport.tu-darmstadt.de/institut_ifs/organisation_ifs/personal_ifs/personal_details_71488.de.jsp) we had a look at what is called *multisensory-integration* for balance control and gait. These projects were somewhat aimed at the question how we combine information from multiple sources, such as our eyes (vision), our body (feeling where our hand is without looking at it: proprioception) or our skin (if there is a vibrator sticked to it), to move around in our world or - yeah - stand still. That question becomes especially interesting when either something is off, e.g. when our [visual information does not fit our proprioception](https://www.youtube.com/watch?v=F4xenIulg_8), or when there is something new, e.g. when we get vibrational feedback about how we stand.
+So, together with my colleagues [Celine](https://www.psychologie.tu-darmstadt.de/institut_psy/personen_psy/personen_psy_detail_75712.de.jsp){target=_blank} and [Max](https://www.sport.tu-darmstadt.de/institut_ifs/organisation_ifs/personal_ifs/personal_details_71488.de.jsp){target=_blank} we had a look at what is called *multisensory-integration* for balance control and gait. These projects were somewhat aimed at the question how we combine information from multiple sources, such as our eyes (vision), our body (feeling where our hand is without looking at it: proprioception) or our skin (if there is a vibrator sticked to it), to move around in our world or - yeah - stand still. That question becomes especially interesting when either something is off, e.g. when our [visual information does not fit our proprioception](https://www.youtube.com/watch?v=F4xenIulg_8){target=_blank}, or when there is something new, e.g. when we get vibrational feedback about how we stand.
 
 
 ---
@@ -35,11 +35,11 @@ So, together with my colleagues [Celine](https://www.psychologie.tu-darmstadt.de
 
 # Publications
 
-For an up-to date list please rather look at my [google scholar page](https://scholar.google.com/citations?user=hf41fWEAAAAJ&hl=de&oi=ao).
+For an up-to date list please rather look at my [google scholar page](https://scholar.google.com/citations?user=hf41fWEAAAAJ&hl=de&oi=ao){target=_blank}.
 
 ### Paper
 * Streiling, K., Schülke, R., Straube, B. et al. Choice- and trial-history effects on causality perception in Schizophrenia Spectrum Disorder. Schizophr 11, 65 (2025). https://doi.org/10.1038/s41537-025-00614-0
-* Stasica, M., Honekamp, C., Streiling, K., Penacchio, O., van Dam, L., Seyfarth, A. (2024). Walking on virtual surface patterns leads to changed control strategies. Sensors 2024, 24(16), 5242; [https://doi.org/10.3390/s24165242](https://doi.org/10.3390/s24165242)
+* Stasica, M., Honekamp, C., Streiling, K., Penacchio, O., van Dam, L., Seyfarth, A. (2024). Walking on virtual surface patterns leads to changed control strategies. Sensors 2024, 24(16), 5242; [https://doi.org/10.3390/s24165242](https://doi.org/10.3390/s24165242){target=_blank}
 
 
 ### Posters and Talks at Conferences
