@@ -13,12 +13,10 @@ This predicted sensory consequence is then compared to what we actually sense. I
 Think of the first time you played Mario Cart with some other people - potentially your friends. It might have happened that you thought you were performing pretty well. You might be a natural at this! <br>
 Then you realised that while you were watching Luigi in the upper right corner leading the crowd, poor Yoshi in the bottom left was somehow running into a wall all the time. Wait. Didn't you choose Yoshi? <br>
 
-We can observe a few known and intuitive characteristics of Agency in this example:
-* Expectation matters: Our predictions - based on our known models of the physical world - set the anchor point for our expectations. And expectations are what we measure the observed results against. Expectations are, however, not dependent solely on the outer physical world. They might be biased, e.g. with the:
-* Performance bias: We tend to rather attribute preferrable outcomes to our actions than such which are bad for us.
-* ...
+If you need more anecdotal references, have a look at [these two playing an old pokemon game](https://www.youtube.com/shorts/L5hroU4SS3c) (Video in German, sorry). Hännö (Hand of Blood) and his friend show a perfect example of Confusion in their Sense of Agency. Or less scientifically, they are totally lost about which pokemon they control!
 
+And there are two main drivers for this here:
 
-
-
-
+1. Expectation matters. Given an action (button press) we expect an outcome. We make a prediction, using our internal model of the world. And if the result fits our prediction, we feel Agency about it.
+ 
+2. Performance biases. We humans really do like to good at what we are doing. And thus, we tend to rather attribute preferrable outcomes to our own actions: If it wins, it's me.
