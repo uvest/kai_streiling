@@ -16,14 +16,13 @@ If you were now asked what happened you'd immediately say something that boils d
 
 What you have just observed could be called a "human launching event", leaning on the broken down visual stimuli that we usually use in the lab. These stimuli are controlled for every little aspect and thus often very simplistic, such as the ones we have used in this study:
 
-<video controls="controls" width="500" name="Launching event">
+<!-- <video controls="controls" width="500" name="Launching event">
   <source src="https://uvest.github.io/kai_streiling/assets/images/launching_event_example_by_Yunyan_Duan.mov">
   <source src="https://uvest.github.io/kai_streiling/assets/images/launching_event_example_by_Yunyan_Duan.mp4" type="video/mp4">
-</video>
+</video> -->
 
 <video controls="controls" width="500" name="Launching event">
   <source src="https://uvest.github.io/kai_streiling/assets/images/launching_event_example.webm" type="video/webm">
-  <!-- <source src="https://uvest.github.io/kai_streiling/assets/images/launching_event_example_by_Yunyan_Duan.mp4" type="video/mp4"> -->
 </video>
 
 
