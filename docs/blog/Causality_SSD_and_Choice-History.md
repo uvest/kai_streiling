@@ -22,7 +22,7 @@ What you have just observed could be called a "human launching event", leaning o
 </video>
 
 <video controls="controls" width="500" name="Launching event">
-  <source src="https://uvest.github.io/kai_streiling/assets/images/launching_event_example.avi" type="video/avi">
+  <source src="https://uvest.github.io/kai_streiling/assets/images/launching_event_example.webm" type="video/webm">
   <!-- <source src="https://uvest.github.io/kai_streiling/assets/images/launching_event_example_by_Yunyan_Duan.mp4" type="video/mp4"> -->
 </video>
 
