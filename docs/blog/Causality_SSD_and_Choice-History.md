@@ -76,9 +76,9 @@ The last choice indeed influences our perception of causality, both, in an easy 
 
 ### Acknowledgements
 This research was funded by the project [The Adaptive Mind](https://www.theadaptivemind.de) - now also a "Cluster of Excellence".
+
+
 <!-- ---
-
-
 ## Introduction and Experiment
 
 
