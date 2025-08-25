@@ -75,7 +75,7 @@ I used a fancy linear regression (GLMM) for looking at the influence of the last
 The last choice indeed influences our perception of causality, both, in an easy to grasp direct way and by modulating the influence of other factors.
 
 ### Acknowledgements
-This project was funded by the project [The Adaptive Mind]() - now also an excelence cluster.
+This research was funded by the project [The Adaptive Mind](https://www.theadaptivemind.de) - now also a "Cluster of Excellence".
 <!-- ---
 
 
