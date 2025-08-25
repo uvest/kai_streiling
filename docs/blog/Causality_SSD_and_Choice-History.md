@@ -26,7 +26,7 @@ What you have just observed could be called a "human launching event", leaning o
 </video>
 
 
-We (that is my [colleagues from Marburg](https://tnm-lab.com/people)) have shown these stimuli to our participants and asked them whether they perceived the event as causal or non-causal. <br>
+We (that is my [colleagues from Marburg](https://tnm-lab.com/people){target=_blank}) have shown these stimuli to our participants and asked them whether they perceived the event as causal or non-causal. <br>
 "Well, that's obvious", you might think. And yes it is, so we added a delay and an angle to the red disk's movement to make it wait a bit after the contact and to make it move not in a straight path. <br>
 It has already been shown that adding these implausibilities reduces the average perceived causality, so people report events with a big delay less often as causal. However, even if there is a very big delay or a very big angle, some trials are still rated as causal, i.e. causality does not vanish completely. <br>
 There are many reasons why the causal impression of such a simple event never fully disappears. For example I believe human imagination could play a role: Maybe the participants just imagine these dots to be two people in a crowded street bumping into each other. And suddenly, in this context, these doesn't need to be a straight path to make the event causally plausible.
@@ -55,15 +55,15 @@ Let's be quicker with the results.
 
 1. Yes, past decisions have a direct influence on current causality judgements. We generally tend to stick to the same answer we gave previously, that is, if we said "causal" in the previous trial, we are now more likely to also say "causal", independent of what is actually going on in the event. Same the other way around, for saying "non causal". Interestingly, this bias was on average not much different between our two groups of healthy people and people with SSD.
 
-2. Of course, a causal judgement is also influenced by the delay and angle of the current event. Here it was interesting, that our healthy control group put more importance on the delay and the group with SSD more importance on the angle. What do I mean with importance? A look at [Figure 2](https://www.nature.com/articles/s41537-025-00614-0/figures/2) can help. SSDs, for example, reported on average more causality for a direct path than healthy control, but less causality for a path with 60 ° angle of egress. They were more influenced by the spatial information (angle) than their healthy control counterparts. 
+2. Of course, a causal judgement is also influenced by the delay and angle of the current event. Here it was interesting, that our healthy control group put more importance on the delay and the group with SSD more importance on the angle. What do I mean with importance? A look at [Figure 2](https://www.nature.com/articles/s41537-025-00614-0/figures/2){target=_blank} can help. SSDs, for example, reported on average more causality for a direct path than healthy control, but less causality for a path with 60 ° angle of egress. They were more influenced by the spatial information (angle) than their healthy control counterparts. 
 
 Now, it would be a bit boring if that was all we found though.
 
-3. It gets more interesting when we look at how this choice-bias interacts with the angle and delay of the current event. Long story short: If what we currently observe is ambuguous, we just use our previous choice as a fall-back. Have a look at [Figure 3](https://www.nature.com/articles/s41537-025-00614-0/figures/3)!
+3. It gets more interesting when we look at how this choice-bias interacts with the angle and delay of the current event. Long story short: If what we currently observe is ambuguous, we just use our previous choice as a fall-back. Have a look at [Figure 3](https://www.nature.com/articles/s41537-025-00614-0/figures/3){target=_blank}!
 4. And finally, we took a look at how these influences of angle, delay and past choices develop over time. Leaning on the story above you can ask, how does your betting behaviour change over the evening? At least for our launching events, the bias of the previous choice went down for healthy controls, but increased for our SSD population! We argued that potentially, HCs learnt the scope of the experiment (range of angles and delays that were possible) over time and were better able to place a single event into the context of what they learnt. SSDs on the other hand, couldn't.
 
 You can find more detailed answers (and nice figures) in the paper we published on this in 2025: <br>
-["Choice- and trial-history effects on causality perception in Schizophrenia Spectrum Disorder"](https://www.nature.com/articles/s41537-025-00614-0)
+["Choice- and trial-history effects on causality perception in Schizophrenia Spectrum Disorder"](https://www.nature.com/articles/s41537-025-00614-0){target=_blank}
 
 <!-- Or the pre-print of it at [https://osf.io/preprints/psyarxiv/8ghab](https://osf.io/preprints/psyarxiv/8ghab) -->
 
@@ -75,7 +75,7 @@ I used a fancy linear regression (GLMM) for looking at the influence of the last
 The last choice indeed influences our perception of causality, both, in an easy to grasp direct way and by modulating the influence of other factors.
 
 ### Acknowledgements
-This research was funded by the project [The Adaptive Mind](https://www.theadaptivemind.de) - now also a "Cluster of Excellence".
+This research was funded by the project [The Adaptive Mind](https://www.theadaptivemind.de){target=_blank} - now also a "Cluster of Excellence".
 
 
 <!-- ---

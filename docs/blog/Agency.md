@@ -13,7 +13,7 @@ This predicted sensory consequence is then compared to what we actually sense. I
 Think of the first time you played Mario Cart with some other people - potentially your friends. It might have happened that you thought you were performing pretty well. You might be a natural at this! <br>
 Then you realised that while you were watching Luigi in the upper right corner leading the crowd, poor Yoshi in the bottom left was somehow running into a wall all the time. Wait. Didn't you choose Yoshi? <br>
 
-If you need more anecdotal references, have a look at [these two playing an old pokemon game](https://www.youtube.com/shorts/L5hroU4SS3c) (Video in German, sorry). Hännö (Hand of Blood) and his friend show a perfect example of Confusion in their Sense of Agency. Or less scientifically, they are totally lost about which pokemon they control!
+If you need more anecdotal references, have a look at [these two playing an old pokemon game](https://www.youtube.com/shorts/L5hroU4SS3c){target=_blank} (Video in German, sorry). Hännö (Hand of Blood) and his friend show a perfect example of Confusion in their Sense of Agency. Or less scientifically, they are totally lost about which pokemon they control!
 
 And there are two main drivers for this here:
 
