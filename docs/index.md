@@ -9,7 +9,7 @@ title: Home
 
 # Kai Streiling
 
-![Profile](assets/images/profile_sq_sw.jpg){align=left width=300 id=round}
+![Profile](assets/images/profile2_sq_sw.jpg){align=left width=300 id=round}
 
 Hi there, <br>
 you stumbled onto my website where you can find some information about my [current research](research.md) and [professional background](about.md). There are also annecdotal and hopefully easy to understand summaries for some of the topics in the [blog](./blog/Causality_SSD_and_Choice-History.md) section.
