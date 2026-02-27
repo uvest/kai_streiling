@@ -18,7 +18,7 @@ Welcome!
 
 
 ## Contact
-Feel free to [write me an e-mail](mailto:kai.streiling@tu-darmstadt.de), if your have questions or feedback or discovered spelling mistakes ;).  
+Feel free to [write me an e-mail](mailto:kai.streiling@tu-darmstadt.de), if you have questions or feedback or discovered spelling mistakes ;).  
 I am also always happy to talk about collaborations, projects, movies or technical fancicalities.
 
 [:octicons-mail-16:](mailto:kai.streiling@tu-darmstadt.de){.md-button .md-button--primary }
