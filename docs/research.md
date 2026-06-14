@@ -37,9 +37,16 @@ So, together with my colleagues [Celine](https://www.psychologie.tu-darmstadt.de
 
 For an up-to date list please rather look at my [google scholar page](https://scholar.google.com/citations?user=hf41fWEAAAAJ&hl=de&oi=ao){target=_blank}.
 
-### Paper
-* Streiling, K., Schülke, R., Straube, B. et al. Choice- and trial-history effects on causality perception in Schizophrenia Spectrum Disorder. Schizophr 11, 65 (2025). https://doi.org/10.1038/s41537-025-00614-0
+### Journal and Conference Papers
+* Streiling, K., Schülke, R., Straube, B. van Dam, L.C.J.. Choice- and trial-history effects on causality perception in Schizophrenia Spectrum Disorder. Schizophr 11, 65 (2025). [https://doi.org/10.1038/s41537-025-00614-0](https://doi.org/10.1038/s41537-025-00614-0){target=_blank}
+
+* Streiling, K., Penaz, V., van Dam, Loes C.J. (2025). Agency in continuous control. Darmstadt, Universitäts- und Landesbibliothek Darmstadt, 12th International Symposium on Adaptive Motion of Animals and Machines (AMAM 2025), Darmstadt, Germany, 07.07.2025 - 11.07.2025, [https://doi.org/10.26083/tuprints-00030926](https://doi.org/10.26083/tuprints-00030926){target=_blank}
+
 * Stasica, M., Honekamp, C., Streiling, K., Penacchio, O., van Dam, L., Seyfarth, A. (2024). Walking on virtual surface patterns leads to changed control strategies. Sensors 2024, 24(16), 5242; [https://doi.org/10.3390/s24165242](https://doi.org/10.3390/s24165242){target=_blank}
+
+
+### Pre-Prints
+* Streiling, K., & van Dam, L. (2026, January 5). The Mario Kart Effect - Confusion as a Metric for Agency in Continuous Control. Retrieved from [osf.io/preprints/psyarxiv/86jxc_v1](osf.io/preprints/psyarxiv/86jxc_v1){target=_blank}
 
 
 ### Posters and Talks at Conferences
