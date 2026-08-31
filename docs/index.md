@@ -12,7 +12,10 @@ title: Home
 ![Profile](assets/images/profile2_sq_sw.jpg){align=left width=300 id=round}
 
 Hi there, <br>
-you stumbled onto my website where you can find some information about my [current research](research.md) and [professional background](about.md). There are also annecdotal and hopefully easy to understand summaries for some of the topics in the [blog](./blog/Causality_SSD_and_Choice-History.md) section.
+I am a cognitive scientist, that is somebody concerned with the mechanics of (human) thinking. 
+Specifically, my PhD topic resolves around the perception of causality and the Sense of Agency in human sensorimotor control.
+I'll gladly tell you a bit more abouta my [current research](research.md) and [professional background](about.md), if you are interested. 
+There are also annecdotal and hopefully easy to understand summaries for some of the topics in the [blog](./blog/Causality_SSD_and_Choice-History.md) section.
 
 
 ## Contact
