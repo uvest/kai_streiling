@@ -11,7 +11,7 @@ This predicted sensory consequence is then compared to what we actually sense. I
 
 Additionally, sensing Agency over an outcome can be influenced by the action's context. It might be driven by our attention (where we look), our current environment (for example, if there are other people also doing things) and how much we (generally) believe to have an effect on the world around us.  Cue-integration models suggest that these cues, that is these pieces of information, are all combined into one experience of Agency.
 
-## The Mario-Cart Effect
+## The Mario-Kart Effect
 Think of the first time you played Mario Cart with some other people - potentially your friends. It might have happened that you thought you were performing pretty well. You might be a natural at this! <br>
 Then you realised that while you were watching Luigi in the upper right corner leading the crowd, poor Yoshi in the bottom left was somehow running into a wall all the time. Wait. Didn't you choose Yoshi? <br>
 

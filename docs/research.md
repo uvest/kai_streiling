@@ -17,7 +17,7 @@ Imagine you drive a car or bike and stand at a red traffic light. When you snap 
 With that very intuitive idea about the Sense of Agency in mind, let me tell you a bit more about it:
 
 * [The sticky perception of causality and Schizophrenia](./blog/Causality_SSD_and_Choice-History.md)
-* [Measuring Agency - The Mario-Cart Effect: It's a me!? ... or is it?](./blog/Agency.md)
+* [Measuring Agency - The Mario-Kart Effect: It's a me!? ... or is it?](./blog/Agency.md)
 <!-- * Optimal Control model of Agency and confusion
 * Agency in Deep-Reinforcement Learning for multi-agent tasks -->
 
@@ -38,6 +38,10 @@ So, together with my colleagues [Celine](https://www.psychologie.tu-darmstadt.de
 For an up-to date list please rather look at my [google scholar page](https://scholar.google.com/citations?user=hf41fWEAAAAJ&hl=de&oi=ao){target=_blank}.
 
 ### Journal and Conference Papers
+* Streiling, K., Bauer, J., Tatai, F., van Dam, L.C.J. (2026). Inferring Confusion - Towards Modelling the Sense of Agency in Continuous Human Behaviour. Proceedingss of the IEEE International Conference on Development and Learning (ICDL), Sep. 2026.
+
+* Streiling, K., Penaz, V., & Van Dam, L. C. (2026). Breaking Control - How confusion of control can help understand the Sense of Agency. Proceedings of the Annual Meeting of the Cognitive Science Society, 48. Retrieved from https://escholarship.org/uc/item/0z4559wp
+
 * Streiling, K., Schülke, R., Straube, B. van Dam, L.C.J.. Choice- and trial-history effects on causality perception in Schizophrenia Spectrum Disorder. Schizophr 11, 65 (2025). [https://doi.org/10.1038/s41537-025-00614-0](https://doi.org/10.1038/s41537-025-00614-0){target=_blank}
 
 * Streiling, K., Penaz, V., van Dam, Loes C.J. (2025). Agency in continuous control. Darmstadt, Universitäts- und Landesbibliothek Darmstadt, 12th International Symposium on Adaptive Motion of Animals and Machines (AMAM 2025), Darmstadt, Germany, 07.07.2025 - 11.07.2025, [https://doi.org/10.26083/tuprints-00030926](https://doi.org/10.26083/tuprints-00030926){target=_blank}
@@ -51,7 +55,7 @@ For an up-to date list please rather look at my [google scholar page](https://sc
 
 ### Posters and Talks at Conferences
 
-* Streiling, K. (2025). The Mario-Cart Effect - Misattribution of Agency in Continuous Control. Talk at the International Multisensory Research Forum 2025 (IMRF)
+* Streiling, K. (2025). The Mario-Kart Effect - Misattribution of Agency in Continuous Control. Talk at the International Multisensory Research Forum 2025 (IMRF)
 
 * Streiling, K., Penaz, V. & van Dam, L. C. J. (2025). Agency in Continuous Control. Poster at Adaptive Motion of Animals and Machines 2025 (AMAM).
 
